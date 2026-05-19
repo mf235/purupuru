@@ -23,7 +23,9 @@
 ![元画像](images/test.png)
 
 生成
-<video src="https://github.com/mf235/purupuru/images/test.mp4" width="320" height="240" controls></video>
+
+<div><video src="https://github.com/mf235/purupuru/images/test.mp4" width="320" height="240" controls></video></div>
+
 
 ## ライセンス
 
