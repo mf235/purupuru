@@ -1,7 +1,5 @@
 
 
-https://github.com/user-attachments/assets/7ecddd66-af82-456f-a5a7-71a375bc1ccd
-
 # ぷるぷるGIF＆MP4メーカー
 
 ![スクリーンショット](images/ss.jpg)
@@ -26,10 +24,8 @@ https://github.com/user-attachments/assets/7ecddd66-af82-456f-a5a7-71a375bc1ccd
 元画像
 ![元画像](images/test.png)
 
-生成
-
-<div><video src="https://github.com/mf235/purupuru/images/test.mp4" width="320" height="240" controls></video></div>
-
+生成動画
+[test.mp4](images/test.mp4)
 
 ## ライセンス
 
