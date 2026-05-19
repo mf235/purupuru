@@ -23,7 +23,7 @@
 ![元画像](images/test.png)
 
 生成
-![ぷるぷるさせた動画](images/test.mp4)
+<video src="images/test.mp4" controls></video>
 
 ## ライセンス
 
